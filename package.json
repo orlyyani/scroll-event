@@ -1,0 +1,12 @@
+{
+  "name": "vue-scroll-event",
+  "version": "1.0.0",
+  "description": "Scroll Events for vue",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlyyani/scroll-event.git"
+  },
+  "author": "Lyor",
+  "license": "MIT"
+}
